@@ -1,0 +1,20 @@
+
+---
+
+## test_inputs.txt
+
+```text
+Test Case 1
+Favorite Food: Pizza
+Favorite Color: Blue
+
+Test Case 2
+Favorite Food: Biryani
+Favorite Color: Black
+
+Test Case 3
+Favorite Food:
+(Expected: Error message and ask again)
+
+Favorite Color:
+(Expected: Error message and ask again)
